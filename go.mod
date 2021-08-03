@@ -3,6 +3,7 @@ module golangLearning
 go 1.16
 
 require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/easierway/concurrent_map v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/labstack/echo v3.3.10+incompatible
